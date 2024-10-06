@@ -5,6 +5,7 @@ import 'package:ticktock/constants.dart';
 import 'package:ticktock/controllers/auth_controller.dart';
 import 'package:ticktock/views/screens/auth/login_screen.dart';
 
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp().then((value) {

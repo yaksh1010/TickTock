@@ -74,6 +74,7 @@ class VideoScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final size = MediaQuery.of(context).size;
 
+    //vertical scroll 
     return Scaffold(
       body: Obx(() {
         return PageView.builder(
