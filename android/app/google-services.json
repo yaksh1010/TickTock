@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "226175130757",
+    "project_id": "ticktock-44d48",
+    "storage_bucket": "ticktock-44d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226175130757:android:9e6dd47be476f460ec9dec",
+        "android_client_info": {
+          "package_name": "com.y.tt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvYxPriYVPnIf2H5CNmYXiOiy1NytTrk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
