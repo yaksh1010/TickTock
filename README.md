@@ -1,4 +1,5 @@
 # TickTock
+<img width="1152" alt="tt" src="https://github.com/user-attachments/assets/cbc4717f-795c-4be2-a1a1-45f144729d04">
 
 TickTock is a clone of TikTok, built with Flutter. It provides a platform for users to create, share, and discover short videos. With a focus on user engagement, the app allows for video uploading, likes, comments, and following other users, replicating the core features of TikTok.
 
@@ -59,8 +60,15 @@ We welcome contributions from the community! To contribute to TickTock:
 Please ensure that your code follows the project's style guidelines and that you've tested it locally.
 
 ## Screenshots
+<img width="475" alt="1" src="https://github.com/user-attachments/assets/f3a31f83-3d5c-4238-9bd2-9f0e0ae62d0d">
+<img width="475" alt="2" src="https://github.com/user-attachments/assets/e67cfafe-e259-4452-83f9-cdf501e0cf8d">
+<img width="475" alt="3" src="https://github.com/user-attachments/assets/bff001f4-08c0-4001-be1c-69584939042f">
+<img width="475" alt="4" src="https://github.com/user-attachments/assets/9919981b-0ea6-4412-b7d2-83af1c6099bb">
+<img width="475" alt="5" src="https://github.com/user-attachments/assets/0fa994b1-934d-4fbf-8e6c-85dabcf6d7d9">
+https://github.com/user-attachments/assets/b6d29579-a830-4b6a-aae0-25b5b3c9a8e0
 
-Include screenshots of the app to give users a quick view of the functionality.
+
+
 
 ## Contact
 
