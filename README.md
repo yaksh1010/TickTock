@@ -65,9 +65,6 @@ Please ensure that your code follows the project's style guidelines and that you
 <img width="475" alt="3" src="https://github.com/user-attachments/assets/bff001f4-08c0-4001-be1c-69584939042f">
 <img width="475" alt="4" src="https://github.com/user-attachments/assets/9919981b-0ea6-4412-b7d2-83af1c6099bb">
 <img width="475" alt="5" src="https://github.com/user-attachments/assets/0fa994b1-934d-4fbf-8e6c-85dabcf6d7d9">
-https://github.com/user-attachments/assets/b6d29579-a830-4b6a-aae0-25b5b3c9a8e0
-
-
 
 
 ## Contact
